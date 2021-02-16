@@ -2,7 +2,7 @@
 
 Sound Speed Estimator for Layered Media in Medical Ultrasound Imaging. 
 
-Medical ultrasound imaging typically assumes a constant sound speed of 1540 m/s in the medium. However, sound speed is known to vary by tissue type (e.g. muscle, connective tissues, fat). The reconstruction of sound speed in the human body using backscattered ultrasound signals is regarded as inverse problem. 
+Medical ultrasound imaging typically assumes a constant sound speed of 1540 m/s in the medium. However, sound speed is known to vary by tissue type (e.g. muscle, connective tissues, fat). The reconstruction of sound speed in the human body using backscattered ultrasound signals is regarded as an inverse problem. 
 
 We provide sample data and algorithms presented in
 
