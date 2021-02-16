@@ -1,1 +1,1 @@
-**Please download the sample data under the [releases](https://github.com/rehmanali1994/DixInversion4MedicalUltrasound/releases) tab for this repository. Place `MultistaticDataset1520.mat`, `MultistaticDataset1540.mat`, `MultistaticDataset1570.mat` in this directory. **
+**Please download the sample data under the [releases](https://github.com/rehmanali1994/DixInversion4MedicalUltrasound/releases) tab for this repository. Place `MultistaticDataset1520.mat`, `MultistaticDataset1540.mat`, `MultistaticDataset1570.mat` in this directory.**
