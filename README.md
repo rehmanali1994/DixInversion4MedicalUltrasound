@@ -21,3 +21,4 @@ The sound speed reconstruction algorithm is implemented in both MATLAB and Pytho
 **Please download the sample data (.mat files) under the [releases](https://github.com/rehmanali1994/DixInversion4MedicalUltrasound/releases) tab for this repository, and place that data in [MultistaticDatasets](MultistaticDatasets).**
 
 # Sample results
+![Results](/GithubFigure.pdf)
