@@ -13,7 +13,7 @@ for the reconstruction of sound speed in heterogeneous and diffuse-scattering me
 If you use the code/algorithm for research, please cite the above paper. 
 
 You can reference a static version of this code by its DOI number:
-DOI: 10.5281/zenodo.4606777
+[![DOI](https://zenodo.org/badge/339263972.svg)](https://zenodo.org/badge/latestdoi/339263972)
 
 # Code and Sample Datasets
 The sound speed reconstruction algorithm is implemented in both MATLAB and Python. The algorithm is broken into two steps. The first step is to create a stack of coherence factor images focused at various sound speeds (implemented in [MATLAB/CoherenceFactorImages.m](MATLAB/CoherenceFactorImages.m) and [Python/CoherenceFactorImages.py](Python/CoherenceFactorImages.py)). These coherence factor image stacks are saved in [SavedCoherenceFactorImages](SavedCoherenceFactorImages) as .mat files. The second step is to estimate the average and local sound speed as a function of depth from this stack of coherence images (implemented in [MATLAB/SoundSpeedEstimation.m](MATLAB/SoundSpeedEstimation.m) and [Python/CoherenceFactorImages.py](Python/SoundSpeedEstimation.py))
