@@ -6,7 +6,8 @@ Medical ultrasound imaging typically assumes a constant sound speed of 1540 m/s 
 
 We provide sample data and algorithms presented in
 
-> Ali, R.; Telichko, A.; Wang, H.; Sukumar, U.; Vilches-Moure, J.; Paulmurugan, R.; Dahl, J. "Local Sound Speed Estimation for Pulse-Echo Ultrasound in Layered Media". *Manuscript submitted for publication.*
+> Ali, R.; Telichko, A.; Wang, H.; Sukumar, U.; Vilches-Moure, J.; Paulmurugan, R.; Dahl, J. "Local Sound Speed Estimation for Pulse-Echo Ultrasound in Layered Media," IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2021), doi: 10.1109/TUFFC.2021.3124479. [Online]. Available: https://ieeexplore.ieee.org/document/9597614 *
+
 
 for the reconstruction of sound speed in heterogeneous and diffuse-scattering medium when sound speed varies as a function of depth into the medium. We follow an approach reminiscent of Dix inversion from seismic imaging (hence the name DixInversion4MedicalUltrasound).
 
